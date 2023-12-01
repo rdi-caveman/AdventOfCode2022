@@ -2,6 +2,8 @@ package main;
 
 import java.util.List;
 
+import advent_code_common.FileUtility;
+
 public class Day4 {
 	static final String DAY4_INPUT_TXT = "./src/resources/day4_input.txt";
 

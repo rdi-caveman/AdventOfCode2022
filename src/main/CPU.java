@@ -3,6 +3,8 @@ package main;
 import java.util.ArrayList;
 import java.util.List;
 
+import advent_code_common.FileUtility;
+
 public class CPU {
 	private long cycle;
 	private List<Instruction> program;

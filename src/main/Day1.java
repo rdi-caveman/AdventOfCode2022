@@ -2,9 +2,14 @@ package main;
 
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.Comparator;
 import java.util.List;
+import advent_code_common.FileUtility;
 
+
+/*
+ *  --- Day 1: Calorie Counting ---
+ *  
+ */
 
 public class Day1 {
 	final static String DAY1_INPUT_TXT = "./src/resources/day1_input.txt";

@@ -2,6 +2,8 @@ package main;
 
 import java.util.List;
 
+import advent_code_common.FileUtility;
+
 public class Day2 {
 	// Rock Paper Scissors
 	final static String DAY2_INPUT_TXT = "./src/resources/day2_input.txt";

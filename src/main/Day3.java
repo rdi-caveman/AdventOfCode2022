@@ -6,6 +6,8 @@ import java.util.Set;
 import java.util.stream.IntStream;
 import java.util.stream.Stream;
 
+import advent_code_common.FileUtility;
+
 public class Day3 {
 	final static String DAY3_INPUT_TXT = "./src/resources/day3_input.txt";
 

@@ -5,6 +5,9 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+import advent_code_common.FileUtility;
+import advent_code_common.Point;
+
 public class Day9 {
 	final static String DAY9_INPUT_TXT = "./src/resources/day9_input.txt";
 	

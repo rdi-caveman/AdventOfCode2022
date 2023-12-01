@@ -9,6 +9,8 @@ import java.util.Stack;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+import advent_code_common.FileUtility;
+
 public class Day5 {
 	final static String DAY5_INPUT_TXT = "./src/resources/day5_input.txt";
 	final static Pattern MOVE_PATTERN = Pattern.compile("move (\\d+) from (\\d+) to (\\d+)");

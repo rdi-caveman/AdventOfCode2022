@@ -1,5 +1,7 @@
 package main;
 
+import advent_code_common.FileUtility;
+
 public class Day8 {
 	final static String DAY8_INPUT_TXT = "./src/resources/day8_input.txt";
 	

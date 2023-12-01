@@ -6,6 +6,8 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+import advent_code_common.FileUtility;
+
 public class Day7 {
 	final static String DAY7_INPUT_TXT = "./src/resources/day7_input.txt";
 	final static long TOTAL_FILE_SPACE    = 70000000;
